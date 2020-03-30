@@ -1,0 +1,43 @@
+.navbarcos{
+	height: 100px;
+}
+
+.fontopen {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+}
+
+#ahli {
+	margin-top: 16%;
+}
+
+#joy {
+	margin-top: 10%;
+
+}
+
+
+
+.full{
+
+ height: 10%;
+ width: 100vw;
+ position: relative;
+ margin-left: -50vw;
+ left: 50%;
+
+}
+
+.iconfoot{
+	width: 30px;
+	height: 30px;
+}
+
+.svg {
+	fill: white;
+}
+
+.follow {
+	width: 35px;
+	height: 35px;
+}
